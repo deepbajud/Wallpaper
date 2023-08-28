@@ -4,7 +4,7 @@
 
  <img 
   width="30%"
-  src="[1.png](https://github.com/deepbajud/Wallpaper/assets/118447327/25aaaf8a-d55b-4708-9120-63f029029fdb)"/>
+  src="[bloggif_64ec76a065a9d](https://github.com/deepbajud/Wallpaper/assets/118447327/25aaaf8a-d55b-4708-9120-63f029029fdb)"/>
 <img 
   width="30%"
   src="2.png"/>
