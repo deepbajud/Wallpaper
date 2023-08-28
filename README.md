@@ -4,7 +4,7 @@
 
  <img 
   width="30%"
-  src="Screenshot_1.png"/>
+  src="1.png"/>
 <img 
   width="30%"
   src="Screenshot_2.png"/>
