@@ -3,7 +3,6 @@
  App-Overview
 <img
  width="30%"/>
-
  <img 
   width="30%"
   src="1.png"/>
