@@ -4,17 +4,17 @@
 
  <img 
   width="30%"
-  src="1.png"/>
+  src="[1.png](https://github.com/deepbajud/Wallpaper/assets/118447327/25aaaf8a-d55b-4708-9120-63f029029fdb)"/>
 <img 
   width="30%"
-  src="Screenshot_2.png"/>
+  src="2.png"/>
 <img 
   width="30%"
-  src="Screenshot_3.png"/>
+  src="3.png"/>
 
 <img 
   width="30%"
-  src="Screenshot_4.png"/>
+  src="4.png"/>
 <img 
   width="30%"
   src="Screenshot_5.png"/>
